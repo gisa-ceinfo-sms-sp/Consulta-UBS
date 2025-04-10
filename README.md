@@ -4,6 +4,8 @@ Ferramenta desenvolvida para visualização dos limites vigentes das áreas de a
 
 Link para acessar a ferramenta: https://www.google.com/maps/d/u/1/viewer?mid=1-cDHamkJnuwbxrOEZVK7MLb7PoF2n88_&ll=-23.637933971818406%2C-46.54170951918827&z=11
 
+5,4mi de acessos
+
 Instruções de uso:
 Os passos básicos para pesquisar o endereço e a UBS está disponível em <https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/epidemiologia_e_informacao/geoprocessamento_e_informacoes_socioambientais/index.php?p=309778/>.
 
