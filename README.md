@@ -17,10 +17,10 @@ Fontes:
 - Áreas de abrangência de UBS * - CEInfo/CAB/SMS-SP, 2024;
 - Estabelecimentos de saúde - EstabSUS / NIAS / CEInfo / SMS-SP
 
-* Limites territoriais atualizados em processo descentralizado, ocorrido no período entre novembro/2021 e junho/2022, que envolveu a participação dos gerentes das 473 unidades de saúde voltadas à Atenção Primária, referências de um determinado território na cidade de São Paulo e a população adstrita e contou com a interlocução das 27 Supervisões Técnicas de Saúde e das 6 Coordenadorias Regionais de Saúde e a coordenação do Núcleo de GEO da CEInfo e a Coordenação de Atenção Básica da Secretaria Municipal da Saúde de São Paulo (SMS).
+* Limites territoriais atualizados em processo descentralizado, ocorrido no período entre novembro/2021 e junho/2022, que envolveu a participação dos gerentes das 479 unidades de saúde voltadas à Atenção Primária, referências de um determinado território na cidade de São Paulo e a população adstrita e contou com a interlocução das 27 Supervisões Técnicas de Saúde e das 6 Coordenadorias Regionais de Saúde e a coordenação do Núcleo de GEO da CEInfo e a Coordenação de Atenção Básica da Secretaria Municipal da Saúde de São Paulo (SMS).
 
-Acesse as áreas de abrangência de UBS no GEOSampa - Mapa Digital da Cidade de São Paulo (https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx)
-2.011.403 visualizações
+Acesse as áreas de abrangência de UBS também no GEOSampa - Mapa Digital da Cidade de São Paulo (https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx) ou via [geowebservices](https://geoinfo-smdu.github.io/tutorial-GeoSampa/#servicos-web)
+
 
 
 ![image](https://github.com/gisa-ceinfo-sms-sp/Consulta-UBS/assets/75272641/048da624-56af-4dfa-8cb7-e2b7d1c8bb04)
